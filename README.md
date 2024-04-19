@@ -1,8 +1,8 @@
 # Flavanoids Table
-![flavanoids-table](src\data\flavanoids.png)
+![flavanoids-table](flavanoids.png)
 
 # Gamma Table
-![gamma-table](src\data\gamma.png)
+![gamma-table](gamma.png)
 
 # Getting Started with Create React App
 
