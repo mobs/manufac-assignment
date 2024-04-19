@@ -1,8 +1,8 @@
 # Flavanoids Table
-![flavanoids-table](https://github.com/mobs/manufac-assignment/blob/main/flavanoids.png?raw=true)
+![flavanoids-table](src\data\flavanoids.png)
 
 # Gamma Table
-![gamma-table](https://github.com/mobs/manufac-assignment/blob/main/gamma.png?raw=true)
+![gamma-table](src\data\gamma.png)
 
 # Getting Started with Create React App
 
